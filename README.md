@@ -1,1 +1,2 @@
 # Proyek-Akhir-Pemrograman-Lanjut---Mobile-Banking
+M-Banking merupakan sebuah program yang dapat mensimulasikan aplikasi dari mobile banking. Dalam program ini user dapat melakukan pengisian dan penarikan rekening, melakukan transfer, cek saldo, juga melihat riwayat transaksi yang menggunakan impelementasi dari linked list. Terdapat fitur tambahan pada program ini yakni user dapat melaukan pembayaran tagihan listrik maupun air pdam yang nantinya program akan mencetak bukti transaksi dan juga menyimpan nya di riwayat transaksi
