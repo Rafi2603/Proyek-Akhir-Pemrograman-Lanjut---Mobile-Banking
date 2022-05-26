@@ -1,3 +1,10 @@
+/***************************************
+ * PAS Pemograman Lanjut Kelas-02      *
+ * Kelompok 12:                        *
+ * - Farras Rafi' Permana - 2106700990 *
+ * - Rafi Fauzan Wirasena - 2106656320 *
+ ***************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
